@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
+- For Instagram
 https://www.instagram.com/officialshashank08/
+For Twitter
 https://twitter.com/amishashank
+For Facebook
 https://www.facebook.com/shashank.pandey.583
 
 <!---
